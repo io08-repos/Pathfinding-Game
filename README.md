@@ -1,8 +1,8 @@
 # Unity A* Pathfinding Prototype
 
-This project is a grid-based A* pathfinding implementation I've built in Unity.
+This project is a grid-based A* pathfinding implementation built in Unity.
 
-It also includes a singular level with an AI game object that can travel from one point of the map to the other using my A* implementation in conjunction with a state machine. 
+It also includes a singular level with an AI game object that can travel from one point of the map to the other using an A* implementation in conjunction with a state machine. 
 
 ## Features
 
